@@ -1,7 +1,7 @@
 # Componente de Resumo de Pedido :computer:
 
-- [Desafio do site]([Frontend Mentor | Order summary component coding challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj))
-- [Link do site pronto]()
+- [Desafio do site](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+- [Link do site pronto](https://eriickw.github.io/Componente_de_pedido/)
 - [Link do meu perfil](https://github.com/EriickW)
 
 
